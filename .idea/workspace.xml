@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="minor changes">
-      <change afterPath="$PROJECT_DIR$/install_docker.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="Install Docker">
+      <change beforePath="$PROJECT_DIR$/install_docker.yml" beforeDir="false" afterPath="$PROJECT_DIR$/install_docker.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +188,8 @@
     <MESSAGE value="change inventory children" />
     <MESSAGE value="change inventory children and inventory" />
     <MESSAGE value="minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
+    <MESSAGE value="Install Docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Install Docker" />
   </component>
   <component name="WindowStateProjectService">
     <state x="513" y="199" key="#Deployment" timestamp="1606385487415">
@@ -204,10 +204,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606389159786" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606471908801">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606475499350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606471908801" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606475499350" />
     <state x="845" y="250" width="315" height="643" key="ftp.server.browser" timestamp="1606384101199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
